@@ -67,5 +67,5 @@ GitLab — веб-инструмент жизненного цикла DevOps с
 [Ссылка на сайт](https://subversion.apache.org/)
 
 
-**Помимо GitHub сушкствуют иные програмные продукты, позволяющие осуществлять контроль версий. Ознакомиться с ними можно по [ссылке](https://translated.turbopages.org/proxy_u/en-ru.ru.755e43bb-63c7329b-8833feaf-74722d776562/https/en.wikipedia.org/wiki/List_of_version-control_software**).
+**Помимо GitHub сушкствуют иные програмные продукты, позволяющие осуществлять контроль версий. Ознакомиться с ними можно по** [ссылке](https://translated.turbopages.org/proxy_u/en-ru.ru.755e43bb-63c7329b-8833feaf-74722d776562/https/en.wikipedia.org/wiki/List_of_version-control_software**).
 
